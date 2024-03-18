@@ -1,0 +1,4 @@
+{
+    "cody.autocomplete.completeSuggestWidgetSelection": false,
+    "rust-analyzer.checkOnSave": false
+}
